@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
         <div className='flex bg-primary-gray-100 justify-between items-center flex-wrap mt-10 sm:px-16 px-6 py-10'>
                <p>
-                @2024 RentFast. All rights reserved. made by <Link href="https://github.com/vakulenko10">vitalik vakulenko</Link>
+                @2024 RentFast. All rights reserved. made by <Link href="https://github.com/vakulenko10" className='text-gray-500  '>vitalik vakulenko</Link>
                </p>
                 <div className='footer__copyrights-link'>
                     <Link href='./'
